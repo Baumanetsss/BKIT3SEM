@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\BKIT\LAB1BKIT\LAB1BKIT\obj\Debug\LAB1BKIT.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BKIT\LAB1BKIT\LAB1BKIT\bin\Debug\LAB1BKIT.exe.config
+C:\Users\user\Desktop\BKIT\LAB1BKIT\LAB1BKIT\bin\Debug\LAB1BKIT.exe
+C:\Users\user\Desktop\BKIT\LAB1BKIT\LAB1BKIT\bin\Debug\LAB1BKIT.pdb
+C:\Users\user\Desktop\BKIT\LAB1BKIT\LAB1BKIT\obj\Debug\LAB1BKIT.exe
+C:\Users\user\Desktop\BKIT\LAB1BKIT\LAB1BKIT\obj\Debug\LAB1BKIT.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\BKIT\LAB3BKIT\LAB3BKIT\obj\Debug\netcoreapp3.1\LAB3BKIT.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BKIT\LAB3BKIT\LAB3BKIT\obj\Debug\netcoreapp3.1\LAB3BKIT.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BKIT\LAB3BKIT\LAB3BKIT\obj\Debug\netcoreapp3.1\LAB3BKIT.AssemblyInfo.cs
+C:\Users\user\Desktop\BKIT\LAB3BKIT\LAB3BKIT\bin\Debug\netcoreapp3.1\LAB3BKIT.exe
+C:\Users\user\Desktop\BKIT\LAB3BKIT\LAB3BKIT\bin\Debug\netcoreapp3.1\LAB3BKIT.deps.json
+C:\Users\user\Desktop\BKIT\LAB3BKIT\LAB3BKIT\bin\Debug\netcoreapp3.1\LAB3BKIT.runtimeconfig.json
+C:\Users\user\Desktop\BKIT\LAB3BKIT\LAB3BKIT\bin\Debug\netcoreapp3.1\LAB3BKIT.runtimeconfig.dev.json
+C:\Users\user\Desktop\BKIT\LAB3BKIT\LAB3BKIT\bin\Debug\netcoreapp3.1\LAB3BKIT.dll
+C:\Users\user\Desktop\BKIT\LAB3BKIT\LAB3BKIT\bin\Debug\netcoreapp3.1\LAB3BKIT.pdb
+C:\Users\user\Desktop\BKIT\LAB3BKIT\LAB3BKIT\obj\Debug\netcoreapp3.1\LAB3BKIT.dll
+C:\Users\user\Desktop\BKIT\LAB3BKIT\LAB3BKIT\obj\Debug\netcoreapp3.1\LAB3BKIT.pdb
