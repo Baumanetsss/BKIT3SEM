@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab4.ParallelSearchResult">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExtraClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4.ParallelSearchThreadParam">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAggAEAAAAAAA=</HashCode>
+      <FileName>ExtraClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4.MinMax">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExtraClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4.SubArrays">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>ExtraClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab4.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

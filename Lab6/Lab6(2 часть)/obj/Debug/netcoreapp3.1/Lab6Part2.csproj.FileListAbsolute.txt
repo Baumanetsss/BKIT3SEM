@@ -1,0 +1,35 @@
+D:\Visual Studio\C#Labs\Lab6Part2\bin\Debug\netcoreapp3.1\Lab6Part2.exe
+D:\Visual Studio\C#Labs\Lab6Part2\bin\Debug\netcoreapp3.1\Lab6Part2.deps.json
+D:\Visual Studio\C#Labs\Lab6Part2\bin\Debug\netcoreapp3.1\Lab6Part2.runtimeconfig.json
+D:\Visual Studio\C#Labs\Lab6Part2\bin\Debug\netcoreapp3.1\Lab6Part2.runtimeconfig.dev.json
+D:\Visual Studio\C#Labs\Lab6Part2\bin\Debug\netcoreapp3.1\Lab6Part2.dll
+D:\Visual Studio\C#Labs\Lab6Part2\bin\Debug\netcoreapp3.1\Lab6Part2.pdb
+D:\Visual Studio\C#Labs\Lab6Part2\obj\Debug\netcoreapp3.1\Lab6Part2.csprojAssemblyReference.cache
+D:\Visual Studio\C#Labs\Lab6Part2\obj\Debug\netcoreapp3.1\Lab6Part2.AssemblyInfoInputs.cache
+D:\Visual Studio\C#Labs\Lab6Part2\obj\Debug\netcoreapp3.1\Lab6Part2.AssemblyInfo.cs
+D:\Visual Studio\C#Labs\Lab6Part2\obj\Debug\netcoreapp3.1\Lab6Part2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\C#Labs\Lab6Part2\obj\Debug\netcoreapp3.1\Lab6Part2.dll
+D:\Visual Studio\C#Labs\Lab6Part2\obj\Debug\netcoreapp3.1\Lab6Part2.pdb
+D:\Visual Studio\C#Labs\Lab6Part2\obj\Debug\netcoreapp3.1\Lab6Part2.genruntimeconfig.cache
+C:\Users\user\Desktop\CSharpLabsRep-master\Lab6Part2\bin\Debug\netcoreapp3.1\Lab6Part2.exe
+C:\Users\user\Desktop\CSharpLabsRep-master\Lab6Part2\bin\Debug\netcoreapp3.1\Lab6Part2.deps.json
+C:\Users\user\Desktop\CSharpLabsRep-master\Lab6Part2\bin\Debug\netcoreapp3.1\Lab6Part2.runtimeconfig.json
+C:\Users\user\Desktop\CSharpLabsRep-master\Lab6Part2\bin\Debug\netcoreapp3.1\Lab6Part2.runtimeconfig.dev.json
+C:\Users\user\Desktop\CSharpLabsRep-master\Lab6Part2\bin\Debug\netcoreapp3.1\Lab6Part2.dll
+C:\Users\user\Desktop\CSharpLabsRep-master\Lab6Part2\bin\Debug\netcoreapp3.1\Lab6Part2.pdb
+C:\Users\user\Desktop\CSharpLabsRep-master\Lab6Part2\obj\Debug\netcoreapp3.1\Lab6Part2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\CSharpLabsRep-master\Lab6Part2\obj\Debug\netcoreapp3.1\Lab6Part2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CSharpLabsRep-master\Lab6Part2\obj\Debug\netcoreapp3.1\Lab6Part2.AssemblyInfo.cs
+C:\Users\user\Desktop\CSharpLabsRep-master\Lab6Part2\obj\Debug\netcoreapp3.1\Lab6Part2.dll
+C:\Users\user\Desktop\CSharpLabsRep-master\Lab6Part2\obj\Debug\netcoreapp3.1\Lab6Part2.pdb
+C:\Users\user\Desktop\BKIT\Lab6\Lab6(2 часть)\bin\Debug\netcoreapp3.1\Lab6Part2.exe
+C:\Users\user\Desktop\BKIT\Lab6\Lab6(2 часть)\bin\Debug\netcoreapp3.1\Lab6Part2.deps.json
+C:\Users\user\Desktop\BKIT\Lab6\Lab6(2 часть)\bin\Debug\netcoreapp3.1\Lab6Part2.runtimeconfig.json
+C:\Users\user\Desktop\BKIT\Lab6\Lab6(2 часть)\bin\Debug\netcoreapp3.1\Lab6Part2.runtimeconfig.dev.json
+C:\Users\user\Desktop\BKIT\Lab6\Lab6(2 часть)\bin\Debug\netcoreapp3.1\Lab6Part2.dll
+C:\Users\user\Desktop\BKIT\Lab6\Lab6(2 часть)\bin\Debug\netcoreapp3.1\Lab6Part2.pdb
+C:\Users\user\Desktop\BKIT\Lab6\Lab6(2 часть)\obj\Debug\netcoreapp3.1\Lab6Part2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BKIT\Lab6\Lab6(2 часть)\obj\Debug\netcoreapp3.1\Lab6Part2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BKIT\Lab6\Lab6(2 часть)\obj\Debug\netcoreapp3.1\Lab6Part2.AssemblyInfo.cs
+C:\Users\user\Desktop\BKIT\Lab6\Lab6(2 часть)\obj\Debug\netcoreapp3.1\Lab6Part2.dll
+C:\Users\user\Desktop\BKIT\Lab6\Lab6(2 часть)\obj\Debug\netcoreapp3.1\Lab6Part2.pdb
